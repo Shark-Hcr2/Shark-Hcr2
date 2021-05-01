@@ -1,0 +1,4 @@
+- 👋🏻 Hi, I’m RS Shark
+- 👀 I’m Interested In Coding
+- 🌱 I’m Currently Learning JavaScript
+- 📫 Contact Me In Discord : RS Shark#2083
